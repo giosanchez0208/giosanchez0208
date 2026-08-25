@@ -2,7 +2,7 @@
 
 Computer vision, at the small end: edge inference, model compression, synthetic data.
 
-I distilled a ResNet-50 into a **4.2 MB** model that beats it on all 13 categories. It runs in your browser: **[try it](https://huggingface.co/spaces/giosanchez0208/clothing-color-recognition)** — it'll finish loading before you finish this page.
+I distilled a ResNet-50 into a **4.2 MB** model that beats it on all 13 categories. It runs in your browser: **[try it](https://huggingface.co/spaces/giosanchez0208/clothing-color-recognition)**, it'll finish loading before you finish this page.
 
 | | Student, 4.2 MB INT8 | Teacher, ResNet-50 |
 |---|---|---|
