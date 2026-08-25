@@ -50,7 +50,9 @@ Constraints I like working under: it has to run on the device, it has to hold up
 ---
 
 **PyTorch · ONNX Runtime · OpenCV · Transformers** — distillation, INT8 quantization, edge inference, synthetic data
+
 **OSMnx · NetworkX · GeoPandas · SciPy** — agent-based simulation, GA/ACO metaheuristics
+
 **Python · C++ · Java · SQL · JavaScript**
 
 BS Computer Science, *Magna Cum Laude* — MSU-IIT, 2026
